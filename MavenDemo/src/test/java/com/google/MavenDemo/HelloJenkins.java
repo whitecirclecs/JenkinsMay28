@@ -2,7 +2,7 @@ package com.google.MavenDemo;
 
 public class HelloJenkins {
 	
-	private void day() {
+	public void day() {
 		System.out.println("Today is Tuesday");
 	}
 	
